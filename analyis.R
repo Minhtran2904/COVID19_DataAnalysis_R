@@ -1,7 +1,7 @@
 rm(list=ls()) 
 library(Hmisc) 
 
-data <- read.csv("D:/Self-Study/Data analyst/COVID19/COVID19_DataAnalysis_R/COVID19_Rawdata_JonsHopkins.csv")
+data <- read.csv("./COVID19_Rawdata_JonsHopkins.csv") #change your path here
 describe(data) 
 
 
