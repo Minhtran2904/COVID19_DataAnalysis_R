@@ -1,7 +1,7 @@
 rm(list=ls()) 
 library(Hmisc) 
 
-data <- read.csv("C:/Users/mykyt/Desktop/covid_R/COVID19_line_list_data.csv")
+data <- read.csv("D:/Self-Study/Data analyst/COVID19/COVID19_DataAnalysis_R/COVID19_Rawdata_JonsHopkins.csv")
 describe(data) 
 
 
