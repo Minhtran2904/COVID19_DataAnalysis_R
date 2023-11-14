@@ -54,6 +54,13 @@ Suggested areas for further research or additional analysis based on the finding
 Recognition of the data sources (Johns Hopkins University, WHO, CDC, NHC, DXY) for providing the dataset.
 ```
 
-To be added: 
-- analysis report
-- more description for README.md
+To-do list:
+- upload raw data
+- upoad .R script
+- revise (if any)
+- upload README.md
+- revise (if any)
+- write report
+- to pdf
+- upload report
+***COMPLETE***
