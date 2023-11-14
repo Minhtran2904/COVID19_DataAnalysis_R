@@ -2,6 +2,7 @@
 My first data analysis project with as much R language that I have learnt.
 
 Out line of my statistical report base on information acquired from dataset with R programming language
+Author: myself: Minh Anh Tran, Helsinki, 14.11.2023
 
 ```
 **Title:
